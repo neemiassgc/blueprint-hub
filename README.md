@@ -1,2 +1,2 @@
-# blueprint-hub
-A repository with a lot of codes drafts made over time
+# Java time drafts
+A repository with drafts using java.time API
